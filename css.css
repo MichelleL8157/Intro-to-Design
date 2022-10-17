@@ -1,0 +1,20 @@
+@media screen and (min-width: 601px) {
+    body {
+        background-color: lightblue;
+        font-size: large;
+    }
+    img{
+        height:600px;
+        width: 600px;
+    }
+}
+@media screen and (max-width: 600px) {
+    body {
+        background-color: lightyellow;
+        font-size: medium;
+    }
+    img{
+        height:400px;
+        width: 400px;
+    }
+}
